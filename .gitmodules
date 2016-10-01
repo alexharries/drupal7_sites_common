@@ -18,3 +18,4 @@
 	url = git@github.com:alexharries/greyhead_bootstrap.git
 [submodule "all/modules/features"]
 	path = all/modules/features
+	url = git@github.com:alexharries/drupal7_common_features.git
