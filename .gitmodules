@@ -16,3 +16,5 @@
 [submodule "all/themes/greyhead_bootstrap"]
 	path = all/themes/greyhead_bootstrap
 	url = git@github.com:alexharries/greyhead_bootstrap.git
+[submodule "all/modules/features"]
+	path = all/modules/features
