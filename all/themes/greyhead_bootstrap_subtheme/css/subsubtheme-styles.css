@@ -577,13 +577,16 @@ h5,
 h6 {
   font-family: 'Antic', sans-serif;
 }
+.paragraphs-item.paragraphs-item--large-quote-intro-text-style-intro-text,
 .paragraphs-item.paragraphs-item--large-quote-intro-text-style-quote {
   margin: 1em 0;
+  font-size: 1.35em;
 }
+.paragraphs-item.paragraphs-item--large-quote-intro-text-style-intro-text,
 .paragraphs-item.paragraphs-item--large-quote-intro-text-style-quote,
+.paragraphs-item.paragraphs-item--large-quote-intro-text-style-intro-text *,
 .paragraphs-item.paragraphs-item--large-quote-intro-text-style-quote * {
   font-family: 'Tangerine', cursive;
-  font-size: 1.35em;
 }
 .navbar-header {
   float: none;
